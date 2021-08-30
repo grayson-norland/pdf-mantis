@@ -61,8 +61,6 @@ And that's what PDF Mantis aims to be, a simple way to extract data from PDFs wi
 PDF Mantis requires at least [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 8 and then either [Maven](http://maven.apache.org) or [Gradle](https://gradle.org).
 
 ## Installation
-<span style="color:red">PLEASE NOTE: We are currently in the process of uploading PDF Mantis to Maven Central - As such, the below will not work until this task is completed (It is due to be completed imminently)</span>.
-
 ### Maven
 
 For [Maven](https://maven.apache.org/), add the below dependency to your `pom.xml` file:
