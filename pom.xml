@@ -20,6 +20,12 @@
         </license>
     </licenses>
 
+    <scm>
+        <url>https://github.com/grayson-norland/pdf-mantis</url>
+        <connection>scm:git:git://github.com/grayson-norland/pdf-mantis.git</connection>
+        <developerConnection>scm:git:git@github.com:grayson-norland/pdf-mantis.git</developerConnection>
+    </scm>
+
     <developers>
         <developer>
             <name>Ben I'Anson</name>
